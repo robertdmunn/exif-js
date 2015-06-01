@@ -13,8 +13,13 @@
   "license": "MIT",
   "ignore": [
     "**/.*",
+    "package.json",
+    "Gruntfile.js",
+    ".project",    
     "node_modules",
     "bower_components",
+	"grunt",
+    "out",
     "test",
     "tests",
     "spec",
