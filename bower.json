@@ -1,13 +1,7 @@
 {
-<<<<<<< HEAD
-  "name": "exif-js",
-  "version": "2.1.1",
-  "homepage": "https://github.com/exif-js/exif-js",
-=======
   "name": "exif-js-dist",
   "version": "2.1.2",
-  "homepage": "https://github.com/jseidelin/exif-js",
->>>>>>> refs/heads/re-org
+  "homepage": "https://github.com/robertdmunn/exif-js",
   "authors": [
     "Jacob Seidelin",
     @gokercebeci,

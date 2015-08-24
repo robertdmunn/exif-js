@@ -1,11 +1,6 @@
 {
-<<<<<<< HEAD
-  "name": "exif-js",
-  "version": "2.1.1",
-=======
   "name": "exif-js-dist",
   "version": "2.1.2",
->>>>>>> refs/heads/re-org
   "description": "JavaScript library for reading EXIF image metadata",
   "main": "exif.js",
     "directories": {
@@ -28,21 +23,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/exif-js/exif-js"
+    "url": "https://github.com/robertdmunn/exif-js"
   },
   "keywords": [
     "exif"
   ],
-<<<<<<< HEAD
-  "author": "Jacob Seidelin",
-  "maintainers": [
-    "Roald de Vries"
-=======
   "author": [
     "Jacob Seidelin",
     @gokercebeci,
     "Robert Munn"
->>>>>>> refs/heads/re-org
   ],
   "license": "MIT",
   "bugs": {
