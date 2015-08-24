@@ -20,3 +20,12 @@ You can also type:
 grunt watch
 
 which will leave the command running. What that does is monitor the source files for changes and run a new build when the source changes.
+
+Authors
+=======
+
+Jacob Seidelin - exif.js
+
+Goker Cebeci - jquery plugin
+
+Robert Munn - code re-org, grunt and bower updates

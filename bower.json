@@ -1,9 +1,11 @@
 {
-  "name": "exif-js",
-  "version": "1.0.0",
+  "name": "exif-js-dist",
+  "version": "2.1.2",
   "homepage": "https://github.com/jseidelin/exif-js",
   "authors": [
-    "Jacob Seidelin"
+    "Jacob Seidelin",
+    @gokercebeci,
+    "Robert Munn"
   ],
   "description": "JavaScript library for reading EXIF image metadata",
   "main": "exif.js",
