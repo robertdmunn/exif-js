@@ -1,9 +1,17 @@
 {
+<<<<<<< HEAD
   "name": "exif-js",
   "version": "2.1.1",
   "homepage": "https://github.com/exif-js/exif-js",
+=======
+  "name": "exif-js-dist",
+  "version": "2.1.2",
+  "homepage": "https://github.com/jseidelin/exif-js",
+>>>>>>> refs/heads/re-org
   "authors": [
-    "Jacob Seidelin"
+    "Jacob Seidelin",
+    @gokercebeci,
+    "Robert Munn"
   ],
   "description": "JavaScript library for reading EXIF image metadata",
   "main": "exif.js",
@@ -13,8 +21,13 @@
   "license": "MIT",
   "ignore": [
     "**/.*",
+    "package.json",
+    "Gruntfile.js",
+    ".project",    
     "node_modules",
     "bower_components",
+	"grunt",
+    "out",
     "test",
     "tests",
     "spec",
