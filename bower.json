@@ -7,7 +7,7 @@
     @gokercebeci,
     "Robert Munn"
   ],
-  "description": "JavaScript library for reading EXIF image metadata",
+  "description": "JavaScript library for reading EXIF image metadata. Includes jquery.exif.js plugin contribution by Goker Cebeci.",
   "main": "exif.js",
   "keywords": [
     "exif"
