@@ -2,12 +2,6 @@
 
 A JavaScript library for reading EXIF meta data from JPEG image files.
 
-Dependencies
-
-NodeJS
-npm
-bower
-
 If you plan on developing exif.js, you can clone the repo or download the zip from the links at right. Once the project is on your machine go to a command prompt in the project root and type:
 
 npm update
